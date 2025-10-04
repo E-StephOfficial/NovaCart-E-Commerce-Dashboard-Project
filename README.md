@@ -10,6 +10,8 @@ The objective of this project was to analyze NovaCart's e-commerce dataset and c
 - **Power Query** – Data Cleaning & transformation, and ETL(Extract, Transform, Load)
 - **Design Principles** – Applied balance, hierarchy, Symmentry, rule of thirds, and visual storytelling  
 
+## How to use 
+Download dashboard files for interactivity.
 
 ## Business Scenario
 NovaCart, an e-commerce company, wants to better understand its sales performance, product category revenue, marketing effectiveness, and regional return rates. Executives require a **single, interactive dashboard** that summarizes key insights without having to sift through lengthy reports.
