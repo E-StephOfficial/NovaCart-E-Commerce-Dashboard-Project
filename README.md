@@ -57,5 +57,5 @@ NovaCart, an e-commerce company, wants to better understand its sales performanc
 ## Demo
 Watch a walkthrough of the dashboard here (Part 1) where i spoke about design thinking and principal of design: [https://www.linkedin.com/posts/activity-7380276669384921088-CsmU?utm_source=share&utm_medium=member_ios&rcm=ACoAAErJvg0Bz1yCecNauaGnJmeE9Eo3p4xcXFc]
 
-(Part 2) where i walk you theough the insights and executice summary report aswell: [
+(Part 2) where i walk you theough the insights and executice summary report aswell: [https://www.linkedin.com/posts/activity-7380920686967558144-jlZs?utm_source=share&utm_medium=member_ios&rcm=ACoAAErJvg0Bz1yCecNauaGnJmeE9Eo3p4xcXFc]
 
